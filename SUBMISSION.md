@@ -52,9 +52,9 @@ of virtual desert. Cut the bloat and get back to work!"
 
 The complete source code is open source under the MIT License:
 
-{% github your-username/necroterm %}
+{% github hash-sum/necroterm %}
 
-*(Replace with your GitHub repository link)*
+*(https://github.com/hash-sum/necroterm.git )*
 
 ---
 
